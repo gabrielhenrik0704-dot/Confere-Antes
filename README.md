@@ -16,6 +16,4 @@ No pacote Windows portátil, abra `Iniciar.bat`.
 Os exemplos clicáveis oferecem relatórios de falso familiar, falsa central
 bancária e benefício falso, com canal relatado, cenário e orientação.
 
-Consulte o [guia técnico](README.txt), os [resultados](RESULTADOS.txt),
-a [documentação](documentacao/Confere-Antes.pdf) e a
-[apresentação](apresentacao/Confere-Antes.pptx).
+Consulte o [guia técnico](README.txt) e os [resultados](RESULTADOS.txt).
